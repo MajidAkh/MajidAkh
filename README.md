@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid Akharaz</h1>
 <h3 align="center">Eternal student passionate about maths and computer science..</h3>
 
- ![Image](falcon-heavy-front-48f68c-1@1x.jpeg "google logo" = 250x250)
+ ![](falcon-heavy-front-48f68c-1@1x.jpeg = 250x250)
 
 - 🔭 I’m currently working on **My subjects of interest currently are, data sciences (whether it is machine learning, deep learning or massive data management) and dynamic systems.**
 
