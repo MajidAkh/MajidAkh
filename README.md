@@ -9,7 +9,7 @@
 
 Something more about me ...
 - :books: Always eager to learn. Currently trying my hands on dynamical systems and Data mining.
-- A good :man_cook: cook, an enthusiastic boxer, chess :chess_pawn: enthusiast.
+- An enthusiastic boxer, chess :chess_pawn: enthusiast, tennis :tennis: player, a winter sports lover
 - A hard worker, to improve every day
 
 
