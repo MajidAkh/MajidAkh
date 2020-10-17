@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Majid Akharaz</h1>
 <h3 align="center">Eternal student passionate about maths and computer science.</h3>
 
-
- <img src="falcon-heavy-front-48f68c-1@1x.jpeg" width="800" height="400">
+<div style="text-align:center"><img src="falcon-heavy-front-48f68c-1@1x.jpeg" /></div>
+ 
 
 
 
