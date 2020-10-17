@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Majid Akharaz</h1>
 <h3 align="center">Eternal student passionate about maths and computer science.</h3>
-<style>
-.centrer {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
- <img src="falcon-heavy-front-48f68c-1@1x.jpeg" width="800" height="400" class="centrer">
+
+ <img src="falcon-heavy-front-48f68c-1@1x.jpeg" width="800" height="400">
 
 
 
