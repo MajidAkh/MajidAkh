@@ -9,7 +9,7 @@
 
 
 
-- 🔭 Currently **My subjects of interest currently are**, data sciences (whether it is machine learning, deep learning or massive data management) and dynamic systems.
+- 🔭 **My subjects of interest currently are**, data sciences (whether it is machine learning, deep learning or massive data management) and dynamic systems.
 
 - 📫 How to reach me **majid.akharaz@gmail.com**
 
