@@ -6,7 +6,7 @@
 
 - 🔭 **My subjects of interest currently are**, data sciences (whether it is machine learning, deep learning or massive data management) and dynamic systems.
 
-- 📫 How to reach me **majid.akharaz@gmail.com**
+- 📫 How to reach me **majid.akharaz@universite-paris-saclay.com**
 
 Something more about me ...
 - :books: Always eager to learn. Currently trying my hands on dynamical systems and Data mining.
