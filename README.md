@@ -9,7 +9,7 @@
 - 📫 How to reach me **majid.akharaz@universite-paris-saclay.com**
 
 Something more about me ...
-- :books: Always eager to learn. Currently trying my hands on dynamical systems and Data mining.
+- :books: Always eager to learn. Currently trying my hands on Statistics, Optimization and Machine learning.
 -  Chess :chess_pawn: enthusiast, tennis :tennis: player, a winter sports lover
 -  Hard worker
 
