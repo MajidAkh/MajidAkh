@@ -8,8 +8,8 @@ I design and run data platforms: batch and streaming pipelines, the infrastructu
 
 **Certifications:** AWS Solutions Architect – Associate (2023) · Certified Kubernetes Administrator (2022)
 
-Most of my recent work lives in client repositories and is not public.
+I work through my own consulting company, [Avantgarde Technologie](https://www.avantgardetechnologie.com/) — AI, data platforms and DataOps for enterprise clients. Most of my recent work lives in client repositories and is not public.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mdaz75008/) · majid.akharaz@gmail.com
+[Avantgarde Technologie](https://www.avantgardetechnologie.com/) · [LinkedIn](https://www.linkedin.com/in/mdaz75008/) · majid.akharaz@gmail.com
