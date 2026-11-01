@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Majid Akharaz</h1>
-<h3 align="center">Eternal student passionate about maths and computer science.</h3>
+# Majid Akharaz
 
+Senior Data & Platform Engineer — Paris.
 
+I design and run data platforms: batch and streaming pipelines, the infrastructure underneath them, and the tooling that lets analysts and data scientists use them without asking me. Seven years across banking, industry and aerospace (ESA, CNES, RATP).
 
+**Core stack:** Python · SQL · Scala · Apache Spark · Kafka · Airflow · Kubernetes · Terraform · AWS
 
-- 🔭 **My subjects of interest currently are**, data sciences (whether it is machine learning, deep learning or massive data management) and dynamic systems.
+**Certifications:** AWS Solutions Architect – Associate (2023) · Certified Kubernetes Administrator (2022)
 
-- 📫 How to reach me **majid.akharaz@universite-paris-saclay.com**
+Most of my recent work lives in client repositories and is not public.
 
-Something more about me ...
-- :books: Always eager to learn. Currently trying my hands on Statistics, Optimization and Machine learning.
--  Chess :chess_pawn: enthusiast, tennis :tennis: player, a winter sports lover
--  Hard worker
+## Contact
 
-
+[LinkedIn](https://www.linkedin.com/in/mdaz75008/) · majid.akharaz@gmail.com
